@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.100.222:9910/api/download/getByParams/app/saas-version-app/Spring/MVC/entrance/unifier/download?resource=98fbd08c-a9e8-411d-a1d0-34ec2d783a59</string>
+                        <string>http://192.168.100.236:9911/api/download/getByParams/app/saas-version-app/Spring/MVC/entrance/unifier/download?resource=98fbd08c-a9e8-411d-a1d0-34ec2d783a59</string>
                     </dict> 
                 </array>
                 <key>metadata</key>
